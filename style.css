@@ -1,0 +1,74 @@
+.button{
+  text-align: center;
+  border-radius: 30px;
+  color:white;
+  background: #000000;
+  padding: 10px;
+  width: auto;
+  height: auto;
+  border: black;
+  font-size: 60%;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+body{
+  background-image: url("background.jpg");
+  background-size: 40em;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em
+}
+#beginandend{
+  text-align: center;
+  border-radius: 30px;
+  color:white;
+  background: #000000;
+  padding: 0.4em;
+  width: auto;
+  height: auto;
+}
+#viruspage{
+  text-align: center;
+  border-radius: 30px;
+  color:white;
+  background: #000000;
+  padding: 0.4em;
+  width: auto;
+  height: auto;
+  font-size: 1em
+}
+#mainpagetext{
+  text-align: center;
+  border-radius: 30px;
+  color:white;
+  background: #000000;
+  padding: 0.4em;
+  width: auto;
+  height: auto;
+}
+#calculator{
+  position: relative;
+  top: 100px;
+  border-radius: 30px;
+  color:white;
+  background: #000000;
+  padding: 0.4em;
+  width: auto;
+  height: auto;
+}
+
+#widget{
+  position: relative;
+  top: 85px;
+}
+
+#buymygame{
+  position: relative;
+  border-radius: 30px;
+  color:white;
+  background: #000000;
+  padding: 0.4em;
+  width: 12em;
+  height: auto;
+  top: 5em;
+}
