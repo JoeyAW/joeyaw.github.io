@@ -1,14 +1,15 @@
 .button{
   border-radius: 30px;
-  color:white;
+  color: white;
   background: #000000;
   padding: 10px;
   width: auto;
   height: auto;
-  border: black;
+  border-color: black;
   font-size: 60%;
   margin-top: 0px;
   margin-right: 10px;
+  text-align: center;
 }
 body{
   background-image: url("background.jpg");
@@ -50,7 +51,7 @@ body{
   position: relative;
   top: 100px;
   border-radius: 30px;
-  color:white;
+  color: white;
   background: #000000;
   padding: 0.4em;
   width: auto;
