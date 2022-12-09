@@ -73,3 +73,10 @@ body{
   height: auto;
   top: 5em;
 }
+textwithbg {
+  background-color: white;
+  font-size: 50px;
+}
+chicknbutton {
+  font-size: 100px;
+}
