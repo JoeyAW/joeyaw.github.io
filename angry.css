@@ -1,0 +1,8 @@
+body {
+    background-image: url("angry.jfif");
+    background-size: 35em;
+    background-repeat: no-repeat;
+    background-position-y: top;
+    background-position-x: center;
+    position: relative;
+  }

@@ -1,0 +1,35 @@
+
+.textwithbg {
+  background-color: black;
+  font-size: 50px;
+  color: white;
+  border-radius: 30px;
+  text-align: center;
+}
+chicknbutton {
+  font-size: 100px;
+}
+
+body {
+  background-image: url("chicken.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+button{
+  border-radius: 30px;
+  color: white;
+  background: #000000;
+  padding: 10px;
+  width: auto;
+  height: auto;
+  border-color: black;
+  font-size: 60%;
+  margin-top: 10px;
+  margin-bottom: 50;
+  margin-right: 10px;
+  text-align: center;
+  position: relative;
+  bottom: 0px;
+  font-size: 25px;
+}

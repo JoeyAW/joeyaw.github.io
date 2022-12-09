@@ -76,8 +76,8 @@ body{
   height: auto;
   top: 5em;
 }
-textwithbg {
-  background-color: white;
+#textwithbg {
+  background-color: black;
   font-size: 50px;
 }
 chicknbutton {
