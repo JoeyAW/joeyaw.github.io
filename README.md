@@ -1,2 +1,2 @@
-# joeyquatch.github.io
-This is just simply my website. Website link: https://joeysquatch.github.io
+
+This is my website. Website link: https://joeyaw.github.io
