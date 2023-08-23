@@ -63,7 +63,7 @@ body{
 
 #widget{
   position: relative;
-  top: 25px;
+  top: 20px;
 }
 
 #buymygame{
@@ -74,7 +74,8 @@ body{
   padding: 0.4em;
   width: 12em;
   height: auto;
-  top: 5em;
+  top: 2.6em;
+  
 }
 #textwithbg {
   background-color: black;
